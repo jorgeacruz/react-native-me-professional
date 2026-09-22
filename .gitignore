@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# Credencial
+.env
+
 # Expo
 .expo/
 dist/
